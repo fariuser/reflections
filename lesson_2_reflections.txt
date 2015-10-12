@@ -21,3 +21,8 @@ It seems branches would be useful when you need to create a sub-branch while the
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help me visualise the branch structure by allowing me to see what the parent of each commit is. This allows me to see which commits can be reached, and which which are unreachable. This shows the importance of craeting new branches as you go along, using git checkout -b new_branch_name to create branch AND check it out.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together allows us to combine certain changes that we would have been working on. This merger is represented in such a way so as to show that all the commits have been integrated into the new commit. 
