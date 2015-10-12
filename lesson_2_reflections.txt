@@ -16,4 +16,8 @@ added can be seen. Also, you can use git diff --staged to see the difference wit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-It seems branches would be useful when you need to create a sub-branch while the main branc intact. This could be a different version of the project (different language, skill level, test version, etc). 
+It seems branches would be useful when you need to create a sub-branch while the main branc intact. This could be a different version of the project (different language, skill level, test version, etc).
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help me visualise the branch structure by allowing me to see what the parent of each commit is. This allows me to see which commits can be reached, and which which are unreachable. This shows the importance of craeting new branches as you go along, using git checkout -b new_branch_name to create branch AND check it out.
