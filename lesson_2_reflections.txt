@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use the staging area to make sure you have one commit per logical change by 
 using git diff to see the difference with the working directory. This way changes not yet
 added can be seen. Also, you can use git diff --staged to see the difference with the repository; in other words temporary changes which still need to be committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It seems branches would be useful when you need to create a sub-branch while the main branc intact. This could be a different version of the project (different language, skill level, test version, etc). 
