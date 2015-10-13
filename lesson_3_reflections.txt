@@ -26,3 +26,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Without Git or GitHub collaboration would be based on messaging whenever something had been changed. 
 The advantage of this would be that you would know instantly whenever a change had been made.
 However, the disadvantage would be that it would not be as efficient as you would have to wait for someone to make some changes before you start making your own, etc.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+This part is a bit confusing. However, I suppose I would want to make changes in a separate branch when I'm working on something which hasn't been finalised yet, while keeping the master intact as it were (But won't this affect master code!? or only adds commits to timeline??)
