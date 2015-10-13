@@ -19,3 +19,10 @@ Branch happens on a single repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit of this is that when offline, for example, you can track changes that you have made since you were last online (git log) and see the differences. You can keep track of how far ahead you are (or perhaps behind?), for example You can then later merge the repositories.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub collaboration would be based on messaging whenever something had been changed. 
+The advantage of this would be that you would know instantly whenever a change had been made.
+However, the disadvantage would be that it would not be as efficient as you would have to wait for someone to make some changes before you start making your own, etc.
